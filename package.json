@@ -1,0 +1,26 @@
+{
+  "name": "earth",
+  "version": "1.0.0",
+  "description": "Simple Earth Model using three.js and electron",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "earth",
+    "planet",
+    "visual"
+  ],
+  "author": "E.Eser Gul",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^8.2.0"
+  },
+  "dependencies": {
+    "three": "^0.127.0"
+  }
+}
